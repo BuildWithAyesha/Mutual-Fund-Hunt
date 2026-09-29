@@ -142,6 +142,7 @@ Mutual Fund Hunt turns the intimidating first step into a guided journey from le
 
 ## 👥 Contributors
 Ayesha Bamahdi & Sidharth
-// Conceptualized and developed as a collaborative product case study.
+
+Conceptualized and developed as a collaborative product case study.
 
 > 🌟 Making finance feel familiar, one click at a time.
